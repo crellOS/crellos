@@ -11,6 +11,9 @@
   <a href="https://t.me/crellos_0x">
     <img height="30" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
+  <a href="https://x.com/crellos_0x">
+    <img height="30" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
+  </a>
 </div>
 
 
