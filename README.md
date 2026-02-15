@@ -1,6 +1,6 @@
 ## ✨ Welcome!
 
-- 🦀 Hey there! I'm **@William** — a **Rust Developer** focused on systems, backend, and blockchain tooling.
+- 🦀 Hey there! I'm **@CrellOS-DEV** — a **Rust ENGINEER** focused on systems, backend, and blockchain tooling.
 - 🔗 Connect with me via my portfolio above.
 
 ---
@@ -8,7 +8,7 @@
 ## 🔗 Contact
 
 <div align="left">
-  <a href="https://t.me/cakaroni">
+  <a href="https://t.me/crellos_0x">
     <img height="30" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </div>
